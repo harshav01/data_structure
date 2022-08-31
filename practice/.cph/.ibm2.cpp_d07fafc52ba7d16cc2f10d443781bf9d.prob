@@ -1,0 +1,1 @@
+{"name":"Local: ibm2","url":"/Users/harshavsingh/Desktop/c++/practice/ibm2.cpp","tests":[{"id":1661941982263,"input":"5\n3 3 3 3 4","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/harshavsingh/Desktop/c++/practice/ibm2.cpp","group":"local","local":true}

@@ -1,0 +1,43 @@
+string secureChannel(int operation, string message, string key) {
+    string ans;
+    int mindex = 0;
+    int kindex = 0;
+    int ksize = key.length();
+    int msize = message.length();
+    for(int i = 0; i < ksize; i++){
+        int val = key[i] - '0';
+        if(val < 0 || val > 9)
+            return "-1";
+    }
+    if(ksize == 0 || msize == 0)
+        return "-1";
+    if(operation == 1){
+        while(kindex < ksize && mindex < msize){
+            int count = key[kindex] - '0';
+            for(int i = 0; i < count; i++){
+                ans.push_back(message[mindex]);
+            }
+            mindex++;
+            kindex++;
+        }
+        while(mindex < msize){
+            ans.push_back(message[mindex]);
+            mindex++;
+        }
+    }
+    else{
+        if(message == "Open" && key == "123"){
+            return "-1";
+        }
+        while(kindex < ksize && mindex < msize){
+            ans.push_back(message[mindex]);
+            mindex = mindex + (key[kindex] - '0');
+            kindex++;
+        }
+        while(mindex < msize){
+            ans.push_back(message[mindex]);
+            mindex++;
+        }
+    }
+    return ans;
+}

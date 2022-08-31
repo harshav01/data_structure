@@ -1,0 +1,1 @@
+{"name":"Local: tcs","url":"/Users/harshavsingh/Desktop/c++/practice_exam/tcs.cpp","tests":[{"id":1661663088761,"input":"bob\nalice\n2\nneon\nman","output":"neonman"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/harshavsingh/Desktop/c++/practice_exam/tcs.cpp","group":"local","local":true}
