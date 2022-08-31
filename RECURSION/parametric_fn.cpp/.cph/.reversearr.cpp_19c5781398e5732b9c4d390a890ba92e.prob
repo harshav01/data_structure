@@ -1,0 +1,1 @@
+{"name":"Local: reversearr","url":"/Users/harshavsingh/Desktop/c++/RECURSION/parametric_fn.cpp/reversearr.cpp","tests":[{"id":1646245727746,"input":"5\n1\n2\n3\n4\n5","output":"5\n4\n3\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/harshavsingh/Desktop/c++/RECURSION/parametric_fn.cpp/reversearr.cpp","group":"local","local":true}

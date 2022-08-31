@@ -1,0 +1,1 @@
+{"name":"Local: count_nodes","url":"/Users/harshavsingh/Desktop/c++/TREE/count_nodes.cpp","tests":[{"id":1650477632344,"input":"1\n2\n4\n-1\n-1\n5\n6\n-1\n-1\n-1\n3\n-1\n7\n-1\n-1","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/harshavsingh/Desktop/c++/TREE/count_nodes.cpp","group":"local","local":true}

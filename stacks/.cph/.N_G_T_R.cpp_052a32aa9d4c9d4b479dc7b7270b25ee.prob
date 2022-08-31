@@ -1,0 +1,1 @@
+{"name":"Local: N_G_T_R","url":"/Users/harshavsingh/Desktop/c++/stacks/N_G_T_R.cpp","tests":[{"id":1644766867785,"input":"7\n1\n3\n0\n0\n1\n2\n4","output":"3\n4\n1\n1\n2\n4\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/harshavsingh/Desktop/c++/stacks/N_G_T_R.cpp","group":"local","local":true}

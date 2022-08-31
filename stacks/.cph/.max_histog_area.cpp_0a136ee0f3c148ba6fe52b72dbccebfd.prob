@@ -1,0 +1,1 @@
+{"name":"Local: max_histog_area","url":"/Users/harshavsingh/Desktop/c++/stacks/max_histog_area.cpp","tests":[{"id":1644821455736,"input":"7\n6\n2\n5\n4\n5\n1\n6","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/harshavsingh/Desktop/c++/stacks/max_histog_area.cpp","group":"local","local":true}
